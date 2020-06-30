@@ -1,0 +1,12 @@
+2020-05-26T06:04:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\thanh1\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Formstack.php on line 6
+
+2020-05-26T06:04:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\thanh1\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Testimonial.php on line 5
+
+2020-05-26T10:26:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\thanh1\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\elementor-extra-widgets\widgets\woo\products-categories.php on line 8
+
+2020-05-26T10:26:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\thanh1\wp-includes\wp-db.php on line 2024
+
+2020-05-26T10:35:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\thanh1\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\elementor-extra-widgets\widgets\elementor\posts-grid.php on line 13
+
+2020-05-26T13:59:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\thanh1\wp-includes\wp-db.php on line 2024
+

@@ -1,0 +1,4 @@
+2020-05-25T09:17:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\thanh1\wp-content\plugins\elementor\includes\elements\column.php on line 4
+
+2020-05-25T15:04:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\thanh1\wp-content\plugins\elementor\includes\editor-templates\editor-wrapper.php on line 4
+
